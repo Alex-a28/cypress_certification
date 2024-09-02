@@ -1,0 +1,21 @@
+[
+                {"name_prefix": " zero",
+                    "amount": 0
+                 },
+             {
+                "name_prefix": " big  +float nr",
+                "amount": "200000,52"
+            },
+             {
+                "name_prefix": " big - float nr",
+                "amount": "- 12 345.00"
+            },
+             {
+                "name_prefix": " big - nr",
+                "amount": "- 196 000 921"
+            },
+             {
+                "name_prefix": " big + nr",
+                "amount": "298 000 123"
+            }
+]
